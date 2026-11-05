@@ -14,6 +14,13 @@ import net.minecraft.network.chat.Component
 import org.slf4j.LoggerFactory
 
 object NoammAddons: ClientModInitializer {
+
+
+
+
+
+
+    
     const val MOD_ID = "@MOD_ID@"
     const val MOD_NAME = "@MOD_NAME@"
     const val MOD_VERSION = "@MOD_VERSION@"
